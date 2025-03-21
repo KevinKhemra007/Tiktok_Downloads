@@ -16,7 +16,13 @@
 ✅ **Dark Mode Toggle** - Easily switch between light and dark themes.  
 ✅ **Social Media Links** - Quickly access TikTok, Telegram, and GitHub.  
 ✅ **GUI-Based or CLI-Based** - Choose between GUI mode or run from the terminal.  
+## 💻 Installation
 
+```bash
+git clone https://github.com/KevinKhemra007/Tiktok_Downloads.git
+cd Tiktok_Downloads
+pip install yt-dlp browser-cookie3 tkinter requests
+````
 ## 🛠 Installation & Usage
 ### **1️⃣ Clone the Repository**
 To get started, **clone** the repository and navigate to the project folder:
